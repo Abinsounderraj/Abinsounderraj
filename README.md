@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey folks 👋</h1>
 # 💫 About Me:
 🔭 I’m currently studying CS<br>👯 I’m looking to collaborate on Devops and Front-end projects <br>🤝 I’m looking for help with CICD and some Networking <br>🌱 I’m currently learning indepth Devops<br>⚡ I was an eSports athlete 
 

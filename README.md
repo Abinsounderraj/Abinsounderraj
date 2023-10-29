@@ -1,5 +1,5 @@
 ![Header](./abin.jpg)
-<h3 align="center">Devops | Data Science | DSA | Encoding </h3>
+<h1 align="center">Devops | Data Science | DSA | Encoding </h1>
 
 <h4 align="center">I am a 4rd Year Student at Anna University pursuing B.E in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>

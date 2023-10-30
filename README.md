@@ -1,9 +1,9 @@
 ![Header](./abin.jpg)
-<h1 align="center">Devops | Web Development | DSA | Encoding </h1>
+<h1 align="center" style="color: blue;" >Devops | Web Development | DSA | Encoding </h1>
 
 <h4 align="center" >I am a 4th Year Student at Anna University pursuing B.E in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<h1 align="center">Technology Stack 💻</h1>
+<h1 align="center" style="color: blue;" >Technology Stack 💻</h1>
 
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>

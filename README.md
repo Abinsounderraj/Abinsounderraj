@@ -1,11 +1,23 @@
+<div align="center">
+
 ![Header](./abin.jpg)
-<h1 align="center" style="color: blue;" >Devops | Web Development | DSA | Encoding </h1>
 
-<h4 align="center" >I am a 4th Year Student at Anna University pursuing B.E in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+# <span style="color:blue">Abin Sounderraj</span>
+## DevOps | Web Development | DSA | Encoding
+
+### About Me
+4th Year CSE Student at Anna University. Passionate about Coding, Designing, and Innovation. Enthusiastic and social, I enjoy challenges and learning. Love connecting with people and sharing knowledge and positivity.
+
+</div>
+
+
 <br>
-<h1 align="center" style="color: blue;" >Technology Stack 💻</h1>
 
-<p align="center">
+<div align="center">
+
+# Technology Stack 💻
+
+<p>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
     <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -32,19 +44,26 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 </p>
 
-
-
-
+</div>
 
 <br>
-  
-<h1 align="center"> Statistical Data 📊 </h1>
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinsounderraj&theme=algolia" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsounderraj&theme=algolia&hide=CSS,HTML,PHP&langs_count=3" height="198">|
+<div align="center">
+
+# Statistical Data 📊
+
+### Github Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinsounderraj&theme=algolia" width="500" height="250">
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsounderraj&theme=radical&hide=CSS,HTML,PHP&langs_count=3" height="198">
+
+
+</div>
 
 <br>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abinsounderraj/Abinsounderraj/output/github-contribution-grid-snake-dark.svg">
@@ -52,22 +71,27 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abinsounderraj/Abinsounderraj/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<hr>
-
-<h3 align="center"> Connect With Me: </h4>
-<p align="center">
-<a  href="https://www.linkedin.com/in/abinsounderraj/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
-<a  href="https://www.kaggle.com/abinsounderraj"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="python"/></a>
-<a  href="mailto: abinsounderrajdev@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="python"/></a>
-<a  href="https://www.instagram.com/abinx.___/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
-
+</div>
 
 <br>
-<br><br>
-<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+
+<div align="center">
+
+## Connect With Me:
+
+<p>
+    <a  href="https://www.linkedin.com/in/abinsounderraj/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a>
+    <a  href="https://www.kaggle.com/abinsounderraj"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="Kaggle"/></a>
+    <a  href="mailto: abinsounderrajdev@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"/></a>
+    <a  href="https://www.instagram.com/abinx.___/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"/></a>
 </p>
 
+</div>
 
+<br>
 
+<div align="center">
 
+<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+
+</div>

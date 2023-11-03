@@ -42,7 +42,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinsounderraj&theme=algolia" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsounderraj&theme=algolia&hide=CSS,HTML,PHP&langs_count=3">|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinsounderraj&theme=algolia" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsounderraj&theme=algolia&hide=CSS,HTML,PHP&langs_count=3" height="198">|
 
 <br>
 

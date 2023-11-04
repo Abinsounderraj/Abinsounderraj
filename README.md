@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Header](./_.jpeg)
+
 ![Header](./abin.jpg)
 
 # <span style="color:blue"><h3>Abin Sounderraj</h3></span>

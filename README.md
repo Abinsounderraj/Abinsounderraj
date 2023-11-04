@@ -2,10 +2,10 @@
 
 ![Header](./abin.jpg)
 
-# <span style="color:blue">Abin Sounderraj</span>
-## DevOps | Web Development | DSA | Encoding
+# <span style="color:blue"><h3>Abin Sounderraj</h3></span>
+ DevOps | Web Development | DSA | Encoding
 
-### About Me
+# <span style="color:blue"><h3>About Me</h3></span>
 4th Year CSE Student at Anna University. Passionate about Coding, Designing, and Innovation. Enthusiastic and social, I enjoy challenges and learning. Love connecting with people and sharing knowledge and positivity.
 
 </div>
@@ -15,7 +15,8 @@
 
 <div align="center">
 
-# Technology Stack 💻
+# <span style="color:blue"><h3>Techn Stacks</h3></span>
+
 
 <p>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
@@ -50,7 +51,8 @@
 
 <div align="center">
 
-# Statistical Data 📊
+# <span style="color:blue"><h3>My Stats</h3></span>
+
 
 ### Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinsounderraj&theme=algolia" width="500" height="250">

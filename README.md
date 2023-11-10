@@ -5,7 +5,7 @@
 ![Header](./abin.jpg)
 
 # <span style="color:blue"><h3>Abin Sounderraj</h3></span>
- DevOps | Web Development | DSA | Encoding
+# DevOps | Web Development | DSA | Encoding
 
 # <span style="color:blue"><h3>About Me</h3></span>
 4th Year CSE Student at Anna University. Passionate about Coding, Designing, and Innovation. Enthusiastic and social, I enjoy challenges and learning. Love connecting with people and sharing knowledge and positivity.
